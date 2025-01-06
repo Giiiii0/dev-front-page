@@ -1,10 +1,8 @@
 # Dev-Front-Page
 
-## Run program via `Dockere-Compose`
-
-### Setup Instructions
+### Commands
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <cloned folder>
+   npm install --legacy-peer-deps
+   npm run dev
    ```
