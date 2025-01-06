@@ -2,7 +2,7 @@
 
 ### Instructions
 ```bash
-Clone repo
-npm install --legacy-peer-deps
-npm run dev
+- Clone repo
+- npm install --legacy-peer-deps
+- npm run dev
 ```
